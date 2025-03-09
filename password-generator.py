@@ -235,7 +235,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 st.markdown("""
     <div class="footer">
         <p class="footer-text">
-            Developed with <span class="footer-heart">❤️</span> by <span>Mehwish Shakir</span> | Software Developer
+            Developed with <span class="footer-heart">❤️</span> by <span>Mehwish Shakir</span> | web Developer
         </p>
     </div>
 """, unsafe_allow_html=True)
